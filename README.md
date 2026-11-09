@@ -355,28 +355,3 @@ reasonable gets read.
 
 
 ---
-
-## Summary of changes
-
-| Change | Where |
-|---|---|
-| **MIT license badge** at top | Line 3 |
-| **Python version + status badges** | Lines 4–5 |
-| `LICENSE` and `README.md` added to project structure | Project structure block |
-| **Expanded License section** with badge, short summary, and full MIT text | Bottom section |
-| **New Contributing section** | After License |
-| **New Acknowledgements section** | Final section |
-
-## 📁 Final project root
-
-
-aurum-zones/
-├── .env
-├── .env.example
-├── .gitignore
-├── LICENSE              ← MIT license (full text)
-├── README.md            ← updated with badges + expanded license
-├── requirements.txt
-├── main.py
-└── aurum_zones/
-    └── ...
