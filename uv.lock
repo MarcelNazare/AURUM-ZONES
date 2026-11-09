@@ -14,7 +14,7 @@ resolution-markers = [
 ]
 
 [[package]]
-name = "auru_-zones"
+name = "aurum-zones"
 version = "0.1.0"
 source = { virtual = "." }
 dependencies = [
